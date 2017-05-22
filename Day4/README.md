@@ -1,4 +1,4 @@
- - [SQL Basics Video](https://youtu.be/pfsSt2somfg)
+
  - Inner Joins Videos
    - [Intro to Inner Joins Video](https://youtu.be/PkASftVod54)
    - [Inner Joins - The Old School Approach](https://youtu.be/16QQG9_WBhg)
