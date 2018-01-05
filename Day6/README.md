@@ -1,2 +1,2 @@
  - [Inner Joins with 3 or More Tables Video](https://youtu.be/FRdfuKXy2TE)
- - [Inner Joines with 3 or More Tables Practice](https://github.com/danielvivacqua/SQLTutorial/blob/master/Resources/SQL%20in%207.%20Day%206.%20Practice..pdf)
+ - [Inner Joins with 3 or More Tables Practice](https://github.com/danielvivacqua/SQLTutorial/blob/master/Resources/SQL%20in%207.%20Day%206.%20Practice..pdf)
